@@ -1,0 +1,19 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Morschi
+
+The "Battlefield 2142 Reclamation & Project Remaster" Linux guide and its
+screenshots are copyright of Morschi, the original author, and are redistributed
+here with his permission under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to copy and redistribute the material in any medium or format and
+to remix, transform, and build upon it for any purpose, even commercially,
+provided you give appropriate credit to the original author, provide a link to
+the license, and indicate if changes were made.
+
+Original guide / upstream source (authoritative, kept updated by the author):
+https://docs.getbf2142.net
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode

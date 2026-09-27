@@ -441,7 +441,12 @@ Special thanks to community member lt.chris for the feedback!
 ## About
 
 - **Guide version:** 1.0.4 (2026-07-11)
-- **Author:** Morschi
-- **Original guide:** based on the Battlefield 2142 Reclamation / Project Remaster community docs
+- **Author / source:** [Morschi](https://docs.getbf2142.net) — this is his guide, reformatted for GitHub. It is kept updated upstream at [docs.getbf2142.net](https://docs.getbf2142.net), so check there for the latest version.
+- **Community:** [Reclamation Discord](https://discord.gg/md9vFmqy8W) · [Project Remaster Discord](https://discord.gg/VP9vpm74QY)
 
-This README was reformatted from the original guide for GitHub. All screenshots live in [`images/`](images). Get help on the [Reclamation Discord](https://discord.gg/md9vFmqy8W) or the [Project Remaster Discord](https://discord.gg/VP9vpm74QY).
+## License
+
+Copyright (c) 2026 Morschi. The guide text and screenshots are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced here with
+the author's permission. If you reuse this material, credit Morschi and link to
+the [original guide](https://docs.getbf2142.net). See [LICENSE.txt](LICENSE.txt).
