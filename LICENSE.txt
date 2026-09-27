@@ -14,7 +14,7 @@ provided you give appropriate credit to the original author, provide a link to
 the license, and indicate if changes were made.
 
 Original guide / upstream source (authoritative, kept updated by the author):
-https://docs.getbf2142.net
+https://docs.google.com/document/d/1ffjOxQ-FqqIFV9SCpOMHsakiFBXhutHGn4sPzhc5ZMc/edit?tab=t.0
 
 Permission from the author
 --------------------------

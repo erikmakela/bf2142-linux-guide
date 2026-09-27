@@ -441,7 +441,7 @@ Special thanks to community member lt.chris for the feedback!
 ## About
 
 - **Guide version:** 1.0.4 (2026-07-11)
-- **Author / source:** [Morschi](https://docs.getbf2142.net) — this is his guide, reformatted for GitHub. It is kept updated upstream at [docs.getbf2142.net](https://docs.getbf2142.net), so check there for the latest version.
+- **Author / source:** [Morschi](https://docs.google.com/document/d/1ffjOxQ-FqqIFV9SCpOMHsakiFBXhutHGn4sPzhc5ZMc/edit?tab=t.0) — this is his guide, reformatted for GitHub. It is kept updated upstream in the [original Google Doc](https://docs.google.com/document/d/1ffjOxQ-FqqIFV9SCpOMHsakiFBXhutHGn4sPzhc5ZMc/edit?tab=t.0), so check there for the latest version.
 - **Community:** [Reclamation Discord](https://discord.gg/md9vFmqy8W) · [Project Remaster Discord](https://discord.gg/VP9vpm74QY)
 
 ## License
@@ -449,4 +449,4 @@ Special thanks to community member lt.chris for the feedback!
 Copyright (c) 2026 Morschi. The guide text and screenshots are licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced here with
 the author's permission. If you reuse this material, credit Morschi and link to
-the [original guide](https://docs.getbf2142.net). See [LICENSE.txt](LICENSE.txt).
+the [original guide](https://docs.google.com/document/d/1ffjOxQ-FqqIFV9SCpOMHsakiFBXhutHGn4sPzhc5ZMc/edit?tab=t.0). See [LICENSE.txt](LICENSE.txt).
