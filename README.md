@@ -168,22 +168,22 @@ Before beginning the installation in Lutris, ensure you have the following files
 1. **Open Lutris and click the + icon (Add locally installed Game)**.  
    **Important:** **DO NOT** pick “Install a Windows game from an executable, **it will fail!**)
 
-![Screenshot 1](images/image1.png)
+![Lutris: add a locally installed game](images/lutris-add-game.png)
 
 2. **Game Info Tab:**  
    * **Cover:** (optional, if you would like to add a cover image in the launcher)  
-      ![Screenshot 2](images/image2.png)  
+      ![Optional cover image](images/game-info-cover-optional.png)  
    * **Name:** BF2142  
    * **Runner:** Wine
 
-![Screenshot 3](images/image3.png)
+![Game Info tab (name and Wine runner)](images/game-info-tab.png)
 
 3. **Game Options Tab:**  
    * **Executable:** Browse to your mounted media or backup copy and select `setup.exe`. (unzip folder first in case you are using a backup copy)  
    * **Wine Prefix:** Create a new folder on your system for the game and select it here. (e.g., `~/Games/bf2142`).  
    * **Working Directory:** Set this to the same folder as the Wine Prefix, (e.g., `~/Games/bf2142`)
 
-![Screenshot 4](images/image4.png)
+![Game Options tab (executable, prefix, working dir)](images/game-options-tab.png)
 
 4. **Runner Options Tab:**  
    * **Wine Version:** Select a recent **System** Wine build (10.20 was used for this initially).  
@@ -194,12 +194,12 @@ Before beginning the installation in Lutris, ensure you have the following files
    * **Enable Fsync:** Toggle this On.  
    * Settings are left pretty much standard as is seen in the screenshot below.
 
-![Screenshot 5](images/image5.png)
+![Runner options (Wine version, DXVK, Esync/Fsync)](images/runner-options-tab.png)
 
 5. **System options**  
    * If you are using a laptop with both a discrete and dedicated GPU, I recommend selecting your dedicated GPU here to prevent issues.
 
-![Screenshot 6](images/image6.png)
+![System options (select dedicated GPU)](images/system-options-gpu.png)
 
 6. **Click Save** in the right corner on top - We do not want to lose everything we just configured. 🙂
 
@@ -224,22 +224,22 @@ To avoid path issues, it is recommended to move your downloaded patch files into
 
 1. Copy the **1.51 Full Patch** and the **Hub Installer** into your Wine Prefix's `drive_c` folder (located in the folder you created in Step 1), e.g. `/home/xxxxx/Games/bf2142/drive_c/`
 
-![Screenshot 7](images/image7.png)
+![Patch and Hub copied into drive_c](images/copy-files-to-drive-c.png)
 
 2. In Lutris, right-click Battlefield 2142 and select **Run EXE inside Wine prefix**.
 
-![Screenshot 8](images/image8.png)
+![Right-click: Run EXE inside Wine prefix](images/run-exe-in-wine-prefix.png)
 
 3. Select the **1.51 Full Patch** executable. Follow the prompts to install.  
    * *Note: If you receive an error about a newer version, ensure you are using the "Full" patch, not the incremental one.*
 
-*![Screenshot 9](images/image9.png)*
+*![1.51 full patch installer](images/patch-1-51-installer.png)*
 
 4. Once the patch is finished, repeat the process once more for the Hub: right-click the game, select **Run EXE inside Wine prefix**, and run the **Hub Installer**.
 
-![Screenshot 8](images/image8.png)
+![Right-click: Run EXE inside Wine prefix](images/run-exe-in-wine-prefix.png)
 
-![Screenshot 10](images/image10.png)
+![BF2142 Hub installer](images/hub-installer.png)
 
 ---
 
@@ -254,12 +254,12 @@ Now that the Hub is installed, you must point Lutris to the new executable.
    **In our specific case:**  
    `/home/xxxxx/Games/bf2142/drive_c/Program Files (x86)/BF2142 Hub 2/BF2142 Hub.exe`
 
-![Screenshot 11](images/image11.png)
+![Set executable to BF2142 Hub.exe](images/configure-hub-executable.png)
 
 4. Click **Save**.  
 5. Launch the game in Lutris. The BF2142 Hub launcher should appear.
 
-![Screenshot 12](images/image12.png)  
+![BF2142 Hub launcher](images/hub-launcher.png)  
 
 ---
 
@@ -277,7 +277,7 @@ Now that the Hub is installed, you must point Lutris to the new executable.
 
 **Hint 3**: In case you encounter a black window when opening the Help tab,, simply click the banner in the bottom right corner. The elements will become visible.
 
-![Screenshot 13](images/image13.png)
+![Hub Redirects: install OpenSpy patch](images/openspy-redirect-patch.png)
 
 ---
 
@@ -295,7 +295,7 @@ Now that the Hub is installed, you must point Lutris to the new executable.
       1.  `OVERWRITE ALL EXISTING FILES/FOLDERS IF PROMPTED`  
       2. `BE SURE NOT TO EXTRACT IT INTO /Levels/Levels !`
 
-![Screenshot 14](images/image14.png)
+![Reclamation map pack installer](images/mappack-installer.png)
 
 ---
 
@@ -314,11 +314,11 @@ Once the installation is complete, you can launch Battlefield 2142 directly from
 
 **Welcome to Battlefield 2142, soldier!**
 
-![Screenshot 15](images/image15.png)
+![BF2142 login screen](images/bf2142-login-screen.png)
 
-![Screenshot 16](images/image16.png)
+![Create account form](images/bf2142-create-account.png)
 
-![Screenshot 17](images/image17.png)
+![Create new soldier](images/bf2142-soldier-creation.png)
 
 ---
 
@@ -338,7 +338,7 @@ Installing it is straightforward. If you made it this far, I strongly recommend 
 - **Important**: I recommend joining the Battlefield Remaster [Discord](https://discord.gg/VP9vpm74QY) to get access to the latest beta builds, should you be interested in testing the newest features!  
 - Extract the content from the `.zip` file into the game's mods folder, in our case located at `/home/xxxxx/Games/bf2142/drive_c/Program Files (x86)/Electronic Arts/Battlefield 2142/mods/`
 
-![Screenshot 18](images/image18.png)
+![Extract Project Remaster into mods folder](images/remaster-extract-to-mods.png)
 
 ---
 
@@ -347,15 +347,15 @@ Installing it is straightforward. If you made it this far, I strongly recommend 
 - Once the extraction is complete, you can launch Battlefield 2142: Project Remaster directly from Lutris via the Hub.  
 - Select the Remaster mod from the dropdown and start the game using the Play button
 
-![Screenshot 19](images/image19.png)
+![Select the Remaster mod in the Hub](images/remaster-select-mod.png)
 
 **Welcome to Project Remaster, soldier!**
 
-![Screenshot 20](images/image20.png)
+![Project Remaster in-game](images/remaster-screenshot-1.png)
 
-![Screenshot 21](images/image21.png)
+![Project Remaster in-game](images/remaster-screenshot-2.png)
 
-![Screenshot 22](images/image22.png)
+![Project Remaster in-game](images/remaster-screenshot-3.png)
 
 ---
 
@@ -364,11 +364,11 @@ Installing it is straightforward. If you made it this far, I strongly recommend 
 ## Hub
 
 1.Dropdowns can be glitchy and only display a black box. This is the case for options such as SCREEN RESOLUTION as well as GAME MOD dropdown. You will have to click the desired value by trial and error. If I find a way to resolve this I will update the guide accordingly.  
-![Screenshot 23](images/image23.png)
+![Hub dropdown glitch (black box)](images/hub-dropdown-black-box.png)
 
 2.In case you encounter a black window when opening the Help tab, simply click the banner in the bottom right corner. The elements will become visible.
 
-![Screenshot 24](images/image24.png)
+![Hub Help tab black window](images/hub-help-tab-black-window.png)
 
 Minimising the hub window and opening it again can help as well.  
 
@@ -383,7 +383,7 @@ Minimising the hub window and opening it again can help as well.
 If you are using Nobara Linux, you might  have to change the Wine version in the Runner options to the default option when [setting up your Battlefield 2142 environment in Lutris](#1-add-and-configure-the-environment):
 
 User reports indicate that the **System 10.20 wine version** under Runner options will sometimes not work. An alternative is to use the default Wine runner, which is **wine-ge-8-26-x86_64 (default)** at the time of writing this tutorial.  
-![Screenshot 25](images/image25.png)  
+![Default Wine runner for other distros](images/wine-runner-default-nobara.png)  
 **This might resolve issues for distros as well and is always worth a shot!**  
 
 ---
