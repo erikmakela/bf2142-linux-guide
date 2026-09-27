@@ -16,4 +16,16 @@ the license, and indicate if changes were made.
 Original guide / upstream source (authoritative, kept updated by the author):
 https://docs.getbf2142.net
 
+Permission from the author
+--------------------------
+Redistribution under CC BY 4.0 is made with the explicit permission of the
+original author, Morschi, who provided the guide and stated (verbatim):
+
+    "Hey there, sure you can do that in both the discord channel as well as
+    your website. I would just be happy if you credit me and link to the
+    guide, also because I will keep updating it from time to time."
+
+His conditions are attribution and a link to the guide; the guide is updated
+upstream, so the original should be treated as the authoritative source.
+
 Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
